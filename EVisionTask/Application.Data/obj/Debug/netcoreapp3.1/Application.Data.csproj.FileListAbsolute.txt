@@ -1,0 +1,15 @@
+/Users/salah/Projects/EVisionTask/Application.Data/bin/Debug/netcoreapp3.1/Application.Data.deps.json
+/Users/salah/Projects/EVisionTask/Application.Data/bin/Debug/netcoreapp3.1/Application.Data.runtimeconfig.json
+/Users/salah/Projects/EVisionTask/Application.Data/bin/Debug/netcoreapp3.1/Application.Data.runtimeconfig.dev.json
+/Users/salah/Projects/EVisionTask/Application.Data/bin/Debug/netcoreapp3.1/Application.Data.dll
+/Users/salah/Projects/EVisionTask/Application.Data/bin/Debug/netcoreapp3.1/Application.Data.pdb
+/Users/salah/Projects/EVisionTask/Application.Data/bin/Debug/netcoreapp3.1/Application.Infrastructure.Data.dll
+/Users/salah/Projects/EVisionTask/Application.Data/bin/Debug/netcoreapp3.1/Application.Infrastructure.Data.pdb
+/Users/salah/Projects/EVisionTask/Application.Data/obj/Debug/netcoreapp3.1/Application.Data.csprojAssemblyReference.cache
+/Users/salah/Projects/EVisionTask/Application.Data/obj/Debug/netcoreapp3.1/Application.Data.csproj.CoreCompileInputs.cache
+/Users/salah/Projects/EVisionTask/Application.Data/obj/Debug/netcoreapp3.1/Application.Data.AssemblyInfoInputs.cache
+/Users/salah/Projects/EVisionTask/Application.Data/obj/Debug/netcoreapp3.1/Application.Data.AssemblyInfo.cs
+/Users/salah/Projects/EVisionTask/Application.Data/obj/Debug/netcoreapp3.1/Application.Data.csproj.CopyComplete
+/Users/salah/Projects/EVisionTask/Application.Data/obj/Debug/netcoreapp3.1/Application.Data.dll
+/Users/salah/Projects/EVisionTask/Application.Data/obj/Debug/netcoreapp3.1/Application.Data.pdb
+/Users/salah/Projects/EVisionTask/Application.Data/obj/Debug/netcoreapp3.1/Application.Data.genruntimeconfig.cache

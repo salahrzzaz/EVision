@@ -1,0 +1,9 @@
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.Data/obj/Debug/netcoreapp3.1/Application.Infrastructure.Data.csprojAssemblyReference.cache
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.Data/obj/Debug/netcoreapp3.1/Application.Infrastructure.Data.csproj.CoreCompileInputs.cache
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.Data/obj/Debug/netcoreapp3.1/Application.Infrastructure.Data.AssemblyInfoInputs.cache
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.Data/obj/Debug/netcoreapp3.1/Application.Infrastructure.Data.AssemblyInfo.cs
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.Data/bin/Debug/netcoreapp3.1/Application.Infrastructure.Data.deps.json
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.Data/bin/Debug/netcoreapp3.1/Application.Infrastructure.Data.dll
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.Data/bin/Debug/netcoreapp3.1/Application.Infrastructure.Data.pdb
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.Data/obj/Debug/netcoreapp3.1/Application.Infrastructure.Data.dll
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.Data/obj/Debug/netcoreapp3.1/Application.Infrastructure.Data.pdb

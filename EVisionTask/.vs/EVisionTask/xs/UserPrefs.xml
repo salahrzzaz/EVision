@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{5130E1F7-18F1-4085-9A20-BF0C9FC9786A}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EVisionTask" expanded="True">
+            <Node name="Application.Test" expanded="True">
+              <Node name="ActionResultExtensions.cs" selected="True" />
+            </Node>
+            <Node name="Application.Web" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="MapperProfile" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Application.Test FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Application.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

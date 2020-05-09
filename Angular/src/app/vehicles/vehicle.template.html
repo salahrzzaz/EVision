@@ -1,0 +1,39 @@
+<nav-bar-temp></nav-bar-temp>
+<h1>vehicle</h1>
+<div class="row">
+  <div class="col-md-4">
+    <select class="form-control"  (change)="getvehicles()" [(ngModel)]="customerId">
+      <option value="0" >All Customer</option>
+      <option *ngFor="let customer of Customers; let i = index" [value] = "customer.id">{{customer.name}}</option>
+    </select>
+  </div>
+
+  <div class="col-md-4">
+    <select class="form-control" (change)="getvehicles()" [(ngModel)]="status">
+      <option value="-1">All Status</option>
+      <option value="true">Active</option>
+      <option value="false">Not Active</option>
+    </select>
+  </div>
+</div>
+<table class="table" style= "margin-top : 10px">
+        <thead>
+          <tr>
+            <th scope="col">vehicle Id</th>
+            <th scope="col">reg Number</th>
+            <th scope="col">status</th>
+            <th scope="col">Customer</th>
+            
+          </tr>
+        </thead>
+        <tbody > 
+          <tr *ngFor="let vehicle of Vehicles; let i = index">
+            <td>{{vehicle.vehicleId}}</td>
+            <td>{{vehicle.regNumber}}</td>
+            <td>{{vehicle.status}}</td>
+            <td>{{vehicle.customerName}}</td>
+            
+          </tr>
+         
+        </tbody>
+      </table>

@@ -1,0 +1,16 @@
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.API/obj/Debug/netcoreapp3.1/Application.Infrastructure.API.csprojAssemblyReference.cache
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.API/obj/Debug/netcoreapp3.1/Application.Infrastructure.API.csproj.CoreCompileInputs.cache
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.API/obj/Debug/netcoreapp3.1/Application.Infrastructure.API.AssemblyInfoInputs.cache
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.API/obj/Debug/netcoreapp3.1/Application.Infrastructure.API.AssemblyInfo.cs
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.API/bin/Debug/netcoreapp3.1/Application.Infrastructure.API.deps.json
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.API/bin/Debug/netcoreapp3.1/Application.Infrastructure.API.dll
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.API/bin/Debug/netcoreapp3.1/Application.Infrastructure.API.pdb
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.API/bin/Debug/netcoreapp3.1/Application.Infrastructure.Data.dll
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.API/bin/Debug/netcoreapp3.1/Application.Infrastructure.Data.pdb
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.API/obj/Debug/netcoreapp3.1/Application.Infrastructure.API.RazorTargetAssemblyInfo.cache
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.API/obj/Debug/netcoreapp3.1/Application.Infrastructure.API.csproj.CopyComplete
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.API/obj/Debug/netcoreapp3.1/staticwebassets/Application.Infrastructure.API.StaticWebAssets.Manifest.cache
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.API/obj/Debug/netcoreapp3.1/staticwebassets/Application.Infrastructure.API.StaticWebAssets.xml
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.API/obj/Debug/netcoreapp3.1/Application.Infrastructure.API.dll
+/Users/salah/Projects/EVisionTask/Application.Infrastructure.API/obj/Debug/netcoreapp3.1/Application.Infrastructure.API.pdb
