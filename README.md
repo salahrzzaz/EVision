@@ -1,10 +1,16 @@
 # EVision
 The Task divided tow project:
+
 1-.Net Core & SQL server (code first)
+
   >> to run database please type this command line (dotnet ef database update ) then dotnet run
+  
   >>the database will created automatic and dummy data
+  
 2-Angular Project
+
    >> to run project please run in command line (npm install) then (npm start)
+   
    
    
    
