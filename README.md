@@ -11,7 +11,12 @@ The Task divided tow project:
    .Net Core Project architect in application layers as follow:
    
    1- Application.Infrastructure.Data that contains all Models & generic Repository & database extensions
+   
    2- Application.Infrastructure.API that contains all base controllers and startup extensions
+   
    3-Application.Data that contains our Database context and custom  Repositories
+   
    4- Application.Web that contains our APIS
+   
    5-Application.Test that contains unit test for APIS
+   
