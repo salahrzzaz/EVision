@@ -6,6 +6,7 @@ The Task divided tow project:
   >> to run database please type this command line (dotnet ef database update ) then dotnet run
   
   >>the database will created automatic and dummy data
+  >> API docmented in swagger (http://localhost:5000/swagger)
   
 2-Angular Project
 
